@@ -1,4 +1,4 @@
-# Programer
+# Computer Programer
 
 ### Education
 #### Riverdale Kingsbridge Academy
