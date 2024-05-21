@@ -9,7 +9,7 @@ september 2018 - present
 - A year's worth of experience in Earth science, living environment, Global studies 9/10, philosophy,Geometry, and ELA 9-10.
 - Experience working at both on and off school grounds.
 - Participated and attended all mandatory and optional school courses from 10th grade to 11th. Including math review, D&D club, video game club, and more.
-- Jailbroken multiple 3ds(s) and an iphone with the help of guides.
+- Jailbroken multiple 3ds's and an iphone 11 pro running 15.4 with the help of guides.
 ### Awards
 - Medal for living environment -2023
 - Principles list -2023
