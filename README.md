@@ -14,19 +14,19 @@ september 2018 - present
 - Medal for living environment -2023
 - Principles list -2023
 - Perfect attendance award -2023
-
-### Projects
 <p>
 <a href="https://codecombat.com/certificates/65085e381507ef0019b0e612?class=65328838ef6ccc0017968930&course=569ed916efa72b0ced971447&course-instance=6568abde544374001ad6e576">
  See Computer Science 5 certificate </a>
 </p>
+<h3>Projects</h3>
+
 
 <p>
-<a href="https://codecombat.com/certificates/65085e381507ef0019b0e612?class=65328838ef6ccc0017968930&course=5789587aad86a6efb5737020&course-instance=657c9231fc8c7f00185996c4">
- See Web Development 2</a>
+<a href="https://codecombat.com/play/web-dev-level/quizlet/658302e421a711003229ac88?course=5789587aad86a6efb5737020">
+ See Web Development 2 project</a>
 </p>
   
 <p>
-<a href="https://codecombat.com/certificates/65085e381507ef0019b0e612?class=65328838ef6ccc0017968930&course=5a0df02b8f2391437740f74f&course-instance=65b90db19fa0670c6b35bb4b">
- See Game Development 3</a>
+<a href="https://codecombat.com/play/level/game-dev-2-final-project?course=57b621e7ad86a6efb5737e64&course-instance=657c92116c6caf0019013e65">
+ See Game Development 2 project</a>
 </p>
