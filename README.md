@@ -11,8 +11,8 @@ september 2018 - present
 - Participated and attended all mandatory and optional school courses from 10th grade to 11th. Including math review, D&D club, video game club, and more.
 - Jailbroken multiple 3ds(s) and an iphone with the help of guides.
 ### Awards
--Medal for living environment -2023
--Principles list -2023
--Perfect attendance award -2023
+- Medal for living environment -2023
+- Principles list -2023
+- Perfect attendance award -2023
 
 ### Projects
