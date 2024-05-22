@@ -3,6 +3,8 @@
 ### Education
 <p>
  <img src="https://upload.wikimedia.org/wikipedia/en/b/b0/RiverdaleKingsbridge.jpg">
+</p>
+<p>
 <a href="https://www.rka141.org/">
 Riverdale Kingsbridge Academy
 </a> </p>
@@ -11,6 +13,9 @@ september 2018 - present
 <p><h3>Skills</h3>
  <p>
 - 8 months worth of experience in computer coding, chemistry, trigonometry, digital photography, Ela 11, and US History.
+</p>
+<p>
+ - Coded in multiple languages such as Python, C++, JavaScript, and HTML
 </p>
 <P>
 - A year's worth of experience in Earth science, living environment, Global studies 9/10, philosophy,Geometry, and ELA 9-10.
@@ -23,7 +28,11 @@ september 2018 - present
 </p>
 <p>
 - Jailbroken multiple 3ds's and an iphone 11 pro running 15.4 with the help of guides.
-</p> </p>
+</p> 
+<p>
+ - made and completed a handful of projects in CodeCombat and Ozaria. 
+</p>
+</p>
 
 <p><h3>Awards</h3>
  <p>
@@ -34,6 +43,22 @@ september 2018 - present
  </p>
 <p>
 - Perfect attendance award -2023
+</p>
+<p>
+ <a href="https://codecombat.com/certificates/65085e381507ef0019b0e612?class=65328838ef6ccc0017968930&course=560f1a9f22961295f9427742&course-instance=6532883a82fb1e0018e32be5">
+  See Computer Science 1 certificate</a>
+</p>
+<p>
+ <a href="https://codecombat.com/certificates/65085e381507ef0019b0e612?class=65328838ef6ccc0017968930&course=5632661322961295f9428638&course-instance=653288c8ef6ccc001796c177">
+  See Computer Science 2 certificate</a>
+</p>
+<p>
+ <a href="https://codecombat.com/certificates/65085e381507ef0019b0e612?class=65328838ef6ccc0017968930&course=56462f935afde0c6fd30fc8c&course-instance=6543ad150a41aa001899a344">
+  See Computer Science 3 certificate</a>
+</p>
+<p>
+ <a href="https://codecombat.com/certificates/65085e381507ef0019b0e612?class=65328838ef6ccc0017968930&course=56462f935afde0c6fd30fc8d&course-instance=65577fb1aa63510033b56f9e">
+  See Computer Science 4 certificate</a>
 </p>
 <p>
 <a href="https://codecombat.com/certificates/65085e381507ef0019b0e612?class=65328838ef6ccc0017968930&course=569ed916efa72b0ced971447&course-instance=6568abde544374001ad6e576">
