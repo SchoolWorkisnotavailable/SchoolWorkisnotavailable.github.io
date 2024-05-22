@@ -1,5 +1,5 @@
 title: Elvin German
-#logo: /assets/img/headshot_circle.png
+logo: /assets/img/headshot_circle.png
 decription: A high school student intrested in coding 
 show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
