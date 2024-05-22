@@ -1,7 +1,10 @@
 # Computer Programer
 
 ### Education
-#### Riverdale Kingsbridge Academy
+<p>
+<a href="https://www.rka141.org/">
+Riverdale Kingsbridge Academy
+</a> </p>
 september 2018 - present
 
 ### Skills
@@ -19,6 +22,13 @@ september 2018 - present
  See Computer Science 5 certificate </a>
 </p>
 <h3>Projects</h3>
+
+<p>
+ <a href="https://codecombat.com/home">
+ <img width="500" height="300" src="https://thinkbigcoding.co.uk/wp-content/uploads/2019/11/codecombat-home-box.jpg"/>
+ </a> 
+</p>
+
 
 <p>
  <a href="https://codecombat.com/play/web-dev-level/wanted-poster/657b2043f360b500195a04ee?course=5789587aad86a6efb573701f">
@@ -41,9 +51,9 @@ Game Development 2 project</a>
 </p>
 
 <p>
- <a href"https://codecombat.com/home">
- <img src=https://codecombat.com/images/pages/base/logo.webp"/>
- </a> 
+<a href="https://www.ozaria.com/home">
+<img src="https://ozaria.dexecure.net/images/ozaria/home/ozaria_logo_sun.png">
+</a>
 </p>
 
 <p>
