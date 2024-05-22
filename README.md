@@ -20,10 +20,19 @@ september 2018 - present
 </p>
 <h3>Projects</h3>
 
+<p>
+ <a href="https://codecombat.com/play/web-dev-level/wanted-poster/657b2043f360b500195a04ee?course=5789587aad86a6efb573701f">
+  Web Development 1 project</a>
+</p>
 
 <p>
 <a href="https://codecombat.com/play/web-dev-level/quizlet/658302e421a711003229ac88?course=5789587aad86a6efb5737020">
 Web Development 2 project</a>
+</p>
+
+<p>
+ <a href="https://codecombat.com/play/game-dev-level/tabula-rasa/65957926884002c0849997f1?course=5789587aad86a6efb573701e">
+  Game Development 1 project</a>
 </p>
   
 <p>
@@ -31,3 +40,22 @@ Web Development 2 project</a>
 Game Development 2 project</a>
 </p>
 
+<p>
+ <a href="https://www.ozaria.com/play/game-dev-level/1fhcapstoneb/6512e41b58b2e7001825e806?course=5d41d731a8d1836b5aa3cba1&course-instance=65098500d0311a002e3b4a27">
+  1st Ozaria project</a>
+</p>
+
+<p>
+ <a href="https://www.ozaria.com/play/game-dev-level/1upcapstone/652018264724b00018b0f5c8">
+  2nd Ozaria project</a>
+</p>
+
+<p>
+ <a href="https://www.ozaria.com/play/game-dev-level/ch3capstoneb/659818d4c01a5147d42d6afb?course=5e27600d1c9d440000ac3ee7&course-instance=6514395a1661ae00197e3e1c">
+  3rd Ozaria project</a>
+</p>
+
+<p>
+ <a href="https://www.ozaria.com/play/game-dev-level/ch4capstone/65e5ea344ed2d5ea1b86f2bf?course=5f0cb0b7a2492bba0b3520df&course-instance=65dcac8643186ddbdb657781">
+  4th Ozaria project</a> 
+</p>
