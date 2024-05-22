@@ -2,23 +2,39 @@
 
 ### Education
 <p>
+ <img src="https://upload.wikimedia.org/wikipedia/en/b/b0/RiverdaleKingsbridge.jpg">
 <a href="https://www.rka141.org/">
 Riverdale Kingsbridge Academy
 </a> </p>
 september 2018 - present
 
 <p><h3>Skills</h3>
-- 8 months worth of experience in computer coding, chemistry, trigonometry,digital photography, Ela 11, and US History.
-- A year's worth of experience in Earth science, living environment, Global studies 9/10, philosophy,Geometry, and ELA 9-10.
-- Experience working at both on and off school grounds.
-- Participated and attended all mandatory and optional school courses from 10th grade to 11th. Including math review, D&D club, video game club, and more.
-- Jailbroken multiple 3ds's and an iphone 11 pro running 15.4 with the help of guides.
+ <p>
+- 8 months worth of experience in computer coding, chemistry, trigonometry, digital photography, Ela 11, and US History.
 </p>
+<P>
+- A year's worth of experience in Earth science, living environment, Global studies 9/10, philosophy,Geometry, and ELA 9-10.
+</P>
+<p> 
+- Experience working at both on and off school grounds.
+</p>
+<p>
+- Participated and attended all mandatory and optional school courses from 10th grade to 11th. Including math review, D&D club, video game club, and more.
+</p>
+<p>
+- Jailbroken multiple 3ds's and an iphone 11 pro running 15.4 with the help of guides.
+</p> </p>
 
 <p><h3>Awards</h3>
+ <p>
 - Medal for living environment -2023
+ </p>
+ <p>
 - Principles list -2023
+ </p>
+<p>
 - Perfect attendance award -2023
+</p>
 <p>
 <a href="https://codecombat.com/certificates/65085e381507ef0019b0e612?class=65328838ef6ccc0017968930&course=569ed916efa72b0ced971447&course-instance=6568abde544374001ad6e576">
  See Computer Science 5 certificate </a>
