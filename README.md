@@ -1,4 +1,4 @@
-# Computer Programer
+<h1>Computer Programer</h1>
 
 ### Education
 <p>
