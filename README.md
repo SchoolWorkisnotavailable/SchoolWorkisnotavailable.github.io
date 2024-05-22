@@ -41,6 +41,12 @@ Game Development 2 project</a>
 </p>
 
 <p>
+ <a href"https://codecombat.com/home">
+ <img src=https://codecombat.com/images/pages/base/logo.webp"/>
+ </a> 
+</p>
+
+<p>
  <a href="https://www.ozaria.com/play/game-dev-level/1fhcapstoneb/6512e41b58b2e7001825e806?course=5d41d731a8d1836b5aa3cba1&course-instance=65098500d0311a002e3b4a27">
   1st Ozaria project</a>
 </p>
