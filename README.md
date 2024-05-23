@@ -66,7 +66,6 @@ september 2018 - present
 </p> </p>
 
 <p><h3>Projects</h3>
-
 <p>
  <a href="https://codecombat.com/home">
  <img width="500" height="300" src="https://thinkbigcoding.co.uk/wp-content/uploads/2019/11/codecombat-home-box.jpg"/>
