@@ -1,7 +1,7 @@
 <h1>Computer Programer</h1>
 <h3>Education</h3>
 <p>
- <img src="https://upload.wikimedia.org/wikipedia/en/b/b0/RiverdaleKingsbridge.jpg">
+ <img src="https://upload.wikimedia.org/wikipedia/en/b/b0/RiverdaleKingsbridge.jpg" class="center">
 </p>
 <p>
 <a href="https://www.rka141.org/">
@@ -65,7 +65,7 @@ Computer Science 5 certificate </a>
 <p><h3>Projects</h3>
 <p>
  <a href="https://codecombat.com/home">
- <img width="500" height="300" src="https://thinkbigcoding.co.uk/wp-content/uploads/2019/11/codecombat-home-box.jpg"/>
+ <img width="500" height="300" src="https://thinkbigcoding.co.uk/wp-content/uploads/2019/11/codecombat-home-box.jpg" class= "center"/>
  </a> 
 </p>
 
@@ -92,7 +92,7 @@ Game Development 2 project</a>
 
 <p>
 <a href="https://www.ozaria.com/home">
-<img src="https://ozaria.dexecure.net/images/ozaria/home/ozaria_logo_sun.png">
+<img src="https://ozaria.dexecure.net/images/ozaria/home/ozaria_logo_sun.png" class= "center">
 </a>
 </p>
 
