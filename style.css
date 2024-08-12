@@ -1,12 +1,23 @@
-.box{
-    height: 100px;
+.box {
+    height: 150px;
     width: 100px;
     background-color: grey;
+    /* Removed justify-content: flex-end; as it does not apply to non-flex containers */
 }
-.navbar{
+/* Navbar styling */
+.navbar {
     height: 60px;
-    background-color:darkgray;
+    background-color: darkgray;
 }
-.space{
- height: 100px;
+/* Additional spacing */
+.space {
+    height: 100px;
+}
+/* Logo styling */
+.logo {
+    height: 50px;
+    width: 50px;
+}
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
