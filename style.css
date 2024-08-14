@@ -2,7 +2,7 @@
 /* Navbar styling */
 .navbar {
     height: 60px;
-    background-color: darkgray;
+    background-color: #1d0c27;
 }
 /* Additional spacing */
 .space {
@@ -17,4 +17,7 @@
     font-family: 'Allerta Stencil';font-size: 20px;
     color: #FFD22E;
 }
-
+.search {
+    color: #ffd22e61;
+    background-color: #14081b;
+}
