@@ -1,9 +1,4 @@
-.box {
-    height: 150px;
-    width: 100px;
-    background-color: grey;
-    /* Removed justify-content: flex-end; as it does not apply to non-flex containers */
-}
+
 /* Navbar styling */
 .navbar {
     height: 60px;
@@ -22,3 +17,4 @@
     font-family: 'Allerta Stencil';font-size: 20px;
     color: #FFD22E;
 }
+
